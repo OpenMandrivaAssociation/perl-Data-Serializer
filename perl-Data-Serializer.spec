@@ -54,3 +54,33 @@ rm -rf %buildroot
 %perl_vendorlib/*
 
 
+
+
+%changelog
+* Wed Jun 22 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.590.0-1mdv2011.0
++ Revision: 686627
+- update to new version 0.59
+
+* Sat Apr 23 2011 Funda Wang <fwang@mandriva.org> 0.570.0-2
++ Revision: 656903
+- rebuild for updated spec-helper
+
+* Sun Jan 30 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.570.0-1
++ Revision: 634224
+- update to new version 0.57
+
+* Tue Jan 04 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.520.0-1mdv2011.0
++ Revision: 628572
+- update to new version 0.52
+
+* Fri Dec 31 2010 Guillaume Rousse <guillomovitch@mandriva.org> 0.510.0-1mdv2011.0
++ Revision: 626821
+- update to new version 0.51
+
+* Tue Jul 27 2010 Shlomi Fish <shlomif@mandriva.org> 0.490.0-1mdv2011.0
++ Revision: 561148
+- import perl-Data-Serializer
+
+
+* Sat Oct 10 2009 cpan2dist 0.49-1mdv
+- initial mdv release, generated with cpan2dist
