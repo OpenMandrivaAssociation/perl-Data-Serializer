@@ -1,2 +1,4 @@
+removed_sources:
+  Data-Serializer-0.59.tar.gz: 0448ad806ca0c9ad786026526dbc115643fcc079
 sources:
-  "Data-Serializer-0.59.tar.gz": 0448ad806ca0c9ad786026526dbc115643fcc079
+  Data-Serializer-0.60.tar.gz: 468dcae8b0203f36139c9aa42df50f83c7ab0002
